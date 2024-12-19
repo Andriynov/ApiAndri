@@ -1,7 +1,5 @@
 using Api_lamoda.Models;
-
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Options;
 
 namespace Api_lamoda
 {
@@ -11,28 +9,36 @@ namespace Api_lamoda
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            // Проверка строки подключения
+            var connectionString = builder.Configuration["ConnectionString"];
+            if (string.IsNullOrEmpty(connectionString))
+            {
+                throw new InvalidOperationException("ConnectionString is missing in configuration.");
+            }
 
-
-
-
+            // Добавление DbContext
             builder.Services.AddDbContext<AndriynovContext>(
-              options => options.UseSqlServer(builder.Configuration["ConnectionString"]));
+                options => options.UseSqlServer(connectionString));
 
+            // Настройка CORS
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("MyPolicy", policy =>
+                {
+                    policy.AllowAnyOrigin()
+                          .AllowAnyMethod()
+                          .AllowAnyHeader();
+                });
+            });
 
-
-
-
-
-            // Add services to the container.
-
+            // Добавление контроллеров
             builder.Services.AddControllers();
-            // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
             var app = builder.Build();
 
-            // Configure the HTTP request pipeline.
+            // Настройка HTTP-конвейера
             if (app.Environment.IsDevelopment())
             {
                 app.UseSwagger();
@@ -40,13 +46,12 @@ namespace Api_lamoda
             }
 
             app.UseHttpsRedirection();
-
-         
-          
             app.UseAuthorization();
-            app.UseCors("MyPolicy");
-            app.MapControllers();
 
+            // Использование CORS
+            app.UseCors("MyPolicy");
+
+            // Регистрация контроллеров
             app.MapControllers();
 
             app.Run();

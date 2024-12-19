@@ -1647,3 +1647,4 @@ C:\Users\timaf\OneDrive\Рабочий стол\ApiAndri\Client\obj\Debug\net7.0
 C:\Users\timaf\OneDrive\Рабочий стол\ApiAndri\Client\obj\Debug\net7.0\refint\Client.dll
 C:\Users\timaf\OneDrive\Рабочий стол\ApiAndri\Client\obj\Debug\net7.0\Client.pdb
 C:\Users\timaf\OneDrive\Рабочий стол\ApiAndri\Client\obj\Debug\net7.0\ref\Client.dll
+C:\Users\timaf\OneDrive\Рабочий стол\ApiAndri\Client\obj\Debug\net7.0\Client.sourcelink.json

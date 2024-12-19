@@ -8,23 +8,22 @@
         <table class="table">
             <thead>
                 <tr>
-                    <th scope="col">Id</th>
+                    <th scope="col">ProductId</th>
                     <th scope="col">Name</th>
                     <th scope="col">Description</th>
                     <th scope="col">Prise</th>
                 </tr>
             </thead>
             <tbody>
-@*                 @foreach (var flow in result)
+               @foreach (var flow in result)
                 {
                     <tr>
                         <th scope="row">@flow.ProductId</th>
-                        <td>@flow.ProductName</td>
+                        <td>@flow.Name</td>
                         <td>@flow.Description</td>
                         <td>@flow.Price</td>
-
                     </tr>
-                } *@
+                } 
             </tbody>
         </table>
     </div>
@@ -44,9 +43,6 @@
 
         public int Stock { get; set; }
 
-        public int BrandId { get; set; }
-
-        public DateTime DateAdded { get; set; }
     }
 
     public Product[] result = new Product[] { };
@@ -56,9 +52,9 @@
     {
         var client = new HttpClient();
 
-        client.BaseAddress = new Uri("https://webapi-jgf2.onrender.com/");
+        client.BaseAddress = new Uri("https://apiandri.onrender.com/");
 
-            result = await client.GetFromJsonAsync<Product[]>("api/Products");
+        result = await client.GetFromJsonAsync<Product[]>("api/Product");
 
         return;
     }

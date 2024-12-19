@@ -7,48 +7,55 @@
       "RelativeMoniker": "D:0:0:{F17A65D0-1615-4C31-82CA-97AF788BC1EA}|Api_lamoda\\Api_lamoda.csproj|solutionrelative:api_lamoda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F17A65D0-1615-4C31-82CA-97AF788BC1EA}|Api_lamoda\\Api_lamoda.csproj|c:\\users\\timaf\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\apiandri\\api_lamoda\\api_lamoda.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F17A65D0-1615-4C31-82CA-97AF788BC1EA}|Api_lamoda\\Api_lamoda.csproj|solutionrelative:api_lamoda\\api_lamoda.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{53070189-C3E9-4381-85E6-2CFF92A791CB}|Client\\Client.csproj|c:\\users\\timaf\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\apiandri\\client\\client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{53070189-C3E9-4381-85E6-2CFF92A791CB}|Client\\Client.csproj|solutionrelative:client\\client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53070189-C3E9-4381-85E6-2CFF92A791CB}|Client\\Client.csproj|c:\\users\\timaf\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\apiandri\\client\\pages\\user.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{53070189-C3E9-4381-85E6-2CFF92A791CB}|Client\\Client.csproj|solutionrelative:client\\pages\\user.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{53070189-C3E9-4381-85E6-2CFF92A791CB}|Client\\Client.csproj|c:\\users\\timaf\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\apiandri\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53070189-C3E9-4381-85E6-2CFF92A791CB}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F17A65D0-1615-4C31-82CA-97AF788BC1EA}|Api_lamoda\\Api_lamoda.csproj|c:\\users\\timaf\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\apiandri\\api_lamoda\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F17A65D0-1615-4C31-82CA-97AF788BC1EA}|Api_lamoda\\Api_lamoda.csproj|solutionrelative:api_lamoda\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53070189-C3E9-4381-85E6-2CFF92A791CB}|Client\\Client.csproj|c:\\users\\timaf\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\apiandri\\client\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53070189-C3E9-4381-85E6-2CFF92A791CB}|Client\\Client.csproj|solutionrelative:client\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F17A65D0-1615-4C31-82CA-97AF788BC1EA}|Api_lamoda\\Api_lamoda.csproj|c:\\users\\timaf\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\apiandri\\api_lamoda\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F17A65D0-1615-4C31-82CA-97AF788BC1EA}|Api_lamoda\\Api_lamoda.csproj|solutionrelative:api_lamoda\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53070189-C3E9-4381-85E6-2CFF92A791CB}|Client\\Client.csproj|c:\\users\\timaf\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\apiandri\\client\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53070189-C3E9-4381-85E6-2CFF92A791CB}|Client\\Client.csproj|solutionrelative:client\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F17A65D0-1615-4C31-82CA-97AF788BC1EA}|Api_lamoda\\Api_lamoda.csproj|c:\\users\\timaf\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\apiandri\\api_lamoda\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F17A65D0-1615-4C31-82CA-97AF788BC1EA}|Api_lamoda\\Api_lamoda.csproj|solutionrelative:api_lamoda\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F17A65D0-1615-4C31-82CA-97AF788BC1EA}|Api_lamoda\\Api_lamoda.csproj|c:\\users\\timaf\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\apiandri\\api_lamoda\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F17A65D0-1615-4C31-82CA-97AF788BC1EA}|Api_lamoda\\Api_lamoda.csproj|solutionrelative:api_lamoda\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F17A65D0-1615-4C31-82CA-97AF788BC1EA}|Api_lamoda\\Api_lamoda.csproj|c:\\users\\timaf\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\apiandri\\api_lamoda\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F17A65D0-1615-4C31-82CA-97AF788BC1EA}|Api_lamoda\\Api_lamoda.csproj|solutionrelative:api_lamoda\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F17A65D0-1615-4C31-82CA-97AF788BC1EA}|Api_lamoda\\Api_lamoda.csproj|c:\\users\\timaf\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\apiandri\\api_lamoda\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F17A65D0-1615-4C31-82CA-97AF788BC1EA}|Api_lamoda\\Api_lamoda.csproj|solutionrelative:api_lamoda\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53070189-C3E9-4381-85E6-2CFF92A791CB}|Client\\Client.csproj|c:\\users\\timaf\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\apiandri\\client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53070189-C3E9-4381-85E6-2CFF92A791CB}|Client\\Client.csproj|solutionrelative:client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53070189-C3E9-4381-85E6-2CFF92A791CB}|Client\\Client.csproj|c:\\users\\timaf\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\apiandri\\client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{53070189-C3E9-4381-85E6-2CFF92A791CB}|Client\\Client.csproj|solutionrelative:client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{53070189-C3E9-4381-85E6-2CFF92A791CB}|Client\\Client.csproj|c:\\users\\timaf\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\apiandri\\client\\pages\\user.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53070189-C3E9-4381-85E6-2CFF92A791CB}|Client\\Client.csproj|solutionrelative:client\\pages\\user.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17A65D0-1615-4C31-82CA-97AF788BC1EA}|Api_lamoda\\Api_lamoda.csproj|c:\\users\\timaf\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\apiandri\\api_lamoda\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17A65D0-1615-4C31-82CA-97AF788BC1EA}|Api_lamoda\\Api_lamoda.csproj|solutionrelative:api_lamoda\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\BlazorApp2\\App.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Api_lamoda\\BlazorApp2\\App.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{53070189-C3E9-4381-85E6-2CFF92A791CB}|Client\\Client.csproj|c:\\users\\timaf\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\apiandri\\client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{53070189-C3E9-4381-85E6-2CFF92A791CB}|Client\\Client.csproj|solutionrelative:client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F17A65D0-1615-4C31-82CA-97AF788BC1EA}|Api_lamoda\\Api_lamoda.csproj|c:\\users\\timaf\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\apiandri\\api_lamoda\\blazorapp2\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F17A65D0-1615-4C31-82CA-97AF788BC1EA}|Api_lamoda\\Api_lamoda.csproj|solutionrelative:api_lamoda\\blazorapp2\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F17A65D0-1615-4C31-82CA-97AF788BC1EA}|Api_lamoda\\Api_lamoda.csproj|c:\\users\\timaf\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\apiandri\\api_lamoda\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F17A65D0-1615-4C31-82CA-97AF788BC1EA}|Api_lamoda\\Api_lamoda.csproj|solutionrelative:api_lamoda\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17A65D0-1615-4C31-82CA-97AF788BC1EA}|Api_lamoda\\Api_lamoda.csproj|c:\\users\\timaf\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\apiandri\\api_lamoda\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17A65D0-1615-4C31-82CA-97AF788BC1EA}|Api_lamoda\\Api_lamoda.csproj|solutionrelative:api_lamoda\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F17A65D0-1615-4C31-82CA-97AF788BC1EA}|Api_lamoda\\Api_lamoda.csproj|c:\\users\\timaf\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\apiandri\\api_lamoda\\models\\andriynovcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,10 +64,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F17A65D0-1615-4C31-82CA-97AF788BC1EA}|Api_lamoda\\Api_lamoda.csproj|c:\\users\\timaf\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\apiandri\\api_lamoda\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F17A65D0-1615-4C31-82CA-97AF788BC1EA}|Api_lamoda\\Api_lamoda.csproj|solutionrelative:api_lamoda\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F17A65D0-1615-4C31-82CA-97AF788BC1EA}|Api_lamoda\\Api_lamoda.csproj|c:\\users\\timaf\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\apiandri\\api_lamoda\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F17A65D0-1615-4C31-82CA-97AF788BC1EA}|Api_lamoda\\Api_lamoda.csproj|solutionrelative:api_lamoda\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -69,122 +72,12 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "DockedWidth": 155,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Api_lamoda",
-              "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\Api_lamoda.csproj",
-              "RelativeDocumentMoniker": "Api_lamoda\\Api_lamoda.csproj",
-              "ToolTip": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\Api_lamoda.csproj",
-              "RelativeToolTip": "Api_lamoda\\Api_lamoda.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-19T11:15:26.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Api_lamoda\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Api_lamoda\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T16:38:26.334Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Api_lamoda\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\Models\\Product.cs",
-              "RelativeToolTip": "Api_lamoda\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T16:38:29.414Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Api_lamoda\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Api_lamoda\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T16:35:15.399Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "Api_lamoda\\Controllers\\OrderController.cs",
-              "ToolTip": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "Api_lamoda\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T16:35:46.304Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ReviewController.cs",
-              "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\Controllers\\ReviewController.cs",
-              "RelativeDocumentMoniker": "Api_lamoda\\Controllers\\ReviewController.cs",
-              "ToolTip": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\Controllers\\ReviewController.cs",
-              "RelativeToolTip": "Api_lamoda\\Controllers\\ReviewController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T16:35:12.483Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "User.razor",
-              "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Client\\Pages\\User.razor",
-              "RelativeDocumentMoniker": "Client\\Pages\\User.razor",
-              "ToolTip": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Client\\Pages\\User.razor",
-              "RelativeToolTip": "Client\\Pages\\User.razor",
-              "ViewState": "AgIAACwAAAAAAAAAAAAiwCAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T10:21:26.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "Api_lamoda\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\Models\\Order.cs",
-              "RelativeToolTip": "Api_lamoda\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T16:35:49.11Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\appsettings.json",
-              "RelativeDocumentMoniker": "Api_lamoda\\appsettings.json",
-              "ToolTip": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\appsettings.json",
-              "RelativeToolTip": "Api_lamoda\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-19T08:37:15.669Z"
             },
             {
               "$type": "Document",
@@ -194,14 +87,66 @@
               "RelativeDocumentMoniker": "Api_lamoda\\Program.cs",
               "ToolTip": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\Program.cs",
               "RelativeToolTip": "Api_lamoda\\Program.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAwwDMAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwDsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T08:38:57.41Z",
+              "WhenOpened": "2024-12-19T12:07:41.262Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Client\\App.razor",
+              "RelativeDocumentMoniker": "Client\\App.razor",
+              "ToolTip": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Client\\App.razor",
+              "RelativeToolTip": "Client\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T11:43:46.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Client\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Client\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Client\\MainLayout.razor",
+              "RelativeToolTip": "Client\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T11:46:13.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Client\\_Imports.razor",
+              "RelativeDocumentMoniker": "Client\\_Imports.razor",
+              "ToolTip": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Client\\_Imports.razor",
+              "RelativeToolTip": "Client\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T11:43:47.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client",
+              "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Client\\Client.csproj",
+              "RelativeDocumentMoniker": "Client\\Client.csproj",
+              "ToolTip": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Client\\Client.csproj",
+              "RelativeToolTip": "Client\\Client.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-19T11:47:05.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "AndriynovContext.cs",
               "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\Models\\AndriynovContext.cs",
               "RelativeDocumentMoniker": "Api_lamoda\\Models\\AndriynovContext.cs",
@@ -213,43 +158,121 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
+              "Title": "User.razor",
+              "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Client\\Pages\\User.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\User.razor",
+              "ToolTip": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Client\\Pages\\User.razor",
+              "RelativeToolTip": "Client\\Pages\\User.razor",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwDgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T10:21:26.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Index.razor",
               "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Client\\Pages\\Index.razor",
               "RelativeDocumentMoniker": "Client\\Pages\\Index.razor",
               "ToolTip": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Client\\Pages\\Index.razor",
               "RelativeToolTip": "Client\\Pages\\Index.razor",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAAAF0AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAHQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T09:24:26.109Z"
+              "WhenOpened": "2024-12-19T09:24:26.109Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:01:01.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Api_lamoda\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\Models\\Order.cs",
+              "RelativeToolTip": "Api_lamoda\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:35:49.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Api_lamoda\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Api_lamoda\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:35:15.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-12-19T12:02:45.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\appsettings.json",
+              "RelativeDocumentMoniker": "Api_lamoda\\appsettings.json",
+              "ToolTip": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\appsettings.json",
+              "RelativeToolTip": "Api_lamoda\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T08:37:15.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\BlazorApp2\\App.razor",
               "RelativeDocumentMoniker": "Api_lamoda\\BlazorApp2\\App.razor",
               "ToolTip": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\BlazorApp2\\App.razor",
               "RelativeToolTip": "Api_lamoda\\BlazorApp2\\App.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-19T09:11:25.416Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Client\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "Client\\wwwroot\\index.html",
               "ToolTip": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Client\\wwwroot\\index.html",
               "RelativeToolTip": "Client\\wwwroot\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-12-19T09:14:23.161Z"
+              "WhenOpened": "2024-12-19T09:14:23.161Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "BrandController.cs",
               "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\Controllers\\BrandController.cs",
               "RelativeDocumentMoniker": "Api_lamoda\\Controllers\\BrandController.cs",
