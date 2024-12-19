@@ -87,7 +87,7 @@
               "RelativeDocumentMoniker": "Api_lamoda\\Program.cs",
               "ToolTip": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\Program.cs",
               "RelativeToolTip": "Api_lamoda\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAuwDsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwDsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-19T12:07:41.262Z",
               "EditorCaption": ""
@@ -102,8 +102,7 @@
               "RelativeToolTip": "Client\\App.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T11:43:46.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T11:43:46.334Z"
             },
             {
               "$type": "Document",
@@ -115,8 +114,7 @@
               "RelativeToolTip": "Client\\MainLayout.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T11:46:13.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T11:46:13.381Z"
             },
             {
               "$type": "Document",
@@ -128,21 +126,19 @@
               "RelativeToolTip": "Client\\_Imports.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T11:43:47.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T11:43:47.536Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Client",
+              "Title": "Client.csproj",
               "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Client\\Client.csproj",
               "RelativeDocumentMoniker": "Client\\Client.csproj",
               "ToolTip": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Client\\Client.csproj",
               "RelativeToolTip": "Client\\Client.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-19T11:47:05.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T11:47:05.413Z"
             },
             {
               "$type": "Document",
@@ -166,8 +162,7 @@
               "RelativeToolTip": "Client\\Pages\\User.razor",
               "ViewState": "AgIAABYAAAAAAAAAAAAuwDgAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T10:21:26.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T10:21:26.16Z"
             },
             {
               "$type": "Document",
@@ -179,8 +174,7 @@
               "RelativeToolTip": "Client\\Pages\\Index.razor",
               "ViewState": "AgIAABQAAAAAAAAAAAAAAHQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T09:24:26.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T09:24:26.109Z"
             },
             {
               "$type": "Document",
@@ -192,8 +186,7 @@
               "RelativeToolTip": "Client\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T12:01:01.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T12:01:01.313Z"
             },
             {
               "$type": "Document",
@@ -205,8 +198,7 @@
               "RelativeToolTip": "Api_lamoda\\Models\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T16:35:49.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T16:35:49.11Z"
             },
             {
               "$type": "Document",
@@ -218,8 +210,7 @@
               "RelativeToolTip": "Api_lamoda\\Controllers\\UserController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T16:35:15.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T16:35:15.399Z"
             },
             {
               "$type": "Document",
@@ -231,8 +222,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkBAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-12-19T12:02:45.258Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T12:02:45.258Z"
             },
             {
               "$type": "Document",
@@ -267,8 +257,7 @@
               "RelativeToolTip": "Client\\wwwroot\\index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-12-19T09:14:23.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T09:14:23.161Z"
             },
             {
               "$type": "Document",
