@@ -6,21 +6,13 @@
 		<ImplicitUsings>enable</ImplicitUsings>
 	</PropertyGroup>
 
-	<ItemGroup>
-	  <None Include="BlazorApp2\BlazorApp2.csproj" />
-	  <None Include="BlazorApp2\BlazorApp2.csproj.user" />
-	</ItemGroup>
+
 
 
 	<ItemGroup>
 		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
 		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.0" />
 		<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.0" />
-	</ItemGroup>
-
-
-	<ItemGroup>
-	  <Folder Include="BlazorApp2\obj\Debug\net8.0\wasm\for-build\" />
 	</ItemGroup>
 
 </Project>

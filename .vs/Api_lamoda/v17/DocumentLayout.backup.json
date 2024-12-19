@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F17A65D0-1615-4C31-82CA-97AF788BC1EA}|Api_lamoda\\Api_lamoda.csproj|c:\\users\\timaf\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\apiandri\\api_lamoda\\api_lamoda.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F17A65D0-1615-4C31-82CA-97AF788BC1EA}|Api_lamoda\\Api_lamoda.csproj|solutionrelative:api_lamoda\\api_lamoda.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{53070189-C3E9-4381-85E6-2CFF92A791CB}|Client\\Client.csproj|c:\\users\\timaf\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\apiandri\\client\\pages\\user.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{53070189-C3E9-4381-85E6-2CFF92A791CB}|Client\\Client.csproj|solutionrelative:client\\pages\\user.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -66,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,7 +78,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
+              "Title": "Api_lamoda",
+              "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\Api_lamoda.csproj",
+              "RelativeDocumentMoniker": "Api_lamoda\\Api_lamoda.csproj",
+              "ToolTip": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\Api_lamoda.csproj",
+              "RelativeToolTip": "Api_lamoda\\Api_lamoda.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-19T11:15:26.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "AndriynovContext.cs",
               "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\Models\\AndriynovContext.cs",
               "RelativeDocumentMoniker": "Api_lamoda\\Models\\AndriynovContext.cs",
@@ -86,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Api_lamoda\\Controllers\\ProductController.cs",
@@ -98,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Api_lamoda\\Models\\Product.cs",
@@ -110,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Api_lamoda\\Controllers\\UserController.cs",
@@ -122,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "OrderController.cs",
               "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "Api_lamoda\\Controllers\\OrderController.cs",
@@ -134,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ReviewController.cs",
               "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\Controllers\\ReviewController.cs",
               "RelativeDocumentMoniker": "Api_lamoda\\Controllers\\ReviewController.cs",
@@ -146,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "User.razor",
               "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Client\\Pages\\User.razor",
               "RelativeDocumentMoniker": "Client\\Pages\\User.razor",
@@ -159,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\Models\\Order.cs",
               "RelativeDocumentMoniker": "Api_lamoda\\Models\\Order.cs",
@@ -171,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\appsettings.json",
               "RelativeDocumentMoniker": "Api_lamoda\\appsettings.json",
@@ -183,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Index.razor",
               "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Client\\Pages\\Index.razor",
               "RelativeDocumentMoniker": "Client\\Pages\\Index.razor",
@@ -195,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\Program.cs",
               "RelativeDocumentMoniker": "Api_lamoda\\Program.cs",
@@ -207,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\BlazorApp2\\App.razor",
               "RelativeDocumentMoniker": "Api_lamoda\\BlazorApp2\\App.razor",
@@ -219,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Client\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "Client\\wwwroot\\index.html",
@@ -231,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "BrandController.cs",
               "DocumentMoniker": "C:\\Users\\timaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ApiAndri\\Api_lamoda\\Controllers\\BrandController.cs",
               "RelativeDocumentMoniker": "Api_lamoda\\Controllers\\BrandController.cs",
