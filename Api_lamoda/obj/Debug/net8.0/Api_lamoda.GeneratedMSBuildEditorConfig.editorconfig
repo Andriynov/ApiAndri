@@ -1,0 +1,47 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Api_lamoda
+build_property.RootNamespace = Api_lamoda
+build_property.ProjectDir = C:\Users\timaf\OneDrive\Рабочий стол\ApiAndri\Api_lamoda\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\timaf\OneDrive\Рабочий стол\ApiAndri\Api_lamoda
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/timaf/OneDrive/Рабочий стол/ApiAndri/Api_lamoda/BlazorApp2/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yQXBwMlxBcHAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/timaf/OneDrive/Рабочий стол/ApiAndri/Api_lamoda/BlazorApp2/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yQXBwMlxMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/timaf/OneDrive/Рабочий стол/ApiAndri/Api_lamoda/BlazorApp2/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yQXBwMlxQYWdlc1xIb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/timaf/OneDrive/Рабочий стол/ApiAndri/Api_lamoda/BlazorApp2/Pages/Products.razor]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yQXBwMlxQYWdlc1xQcm9kdWN0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/timaf/OneDrive/Рабочий стол/ApiAndri/Api_lamoda/BlazorApp2/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yQXBwMlxfSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
