@@ -45,7 +45,6 @@ namespace Api_lamoda
                 app.UseSwaggerUI();
             }
 
-            app.UseHttpsRedirection();
             app.UseAuthorization();
 
             // Использование CORS
